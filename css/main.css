@@ -1,7 +1,7 @@
 .container{ margin: 0 auto;max-width: 1170px; }
 section{display: flex;}
 .flex{display:flex;}
-.flex-coumn{flex-direction: column;}
+.flex-column{flex-direction: column;}
 .flex-one{flex: 1}
 .align-center{align-items: center;}
 .center{ justify-content: center;}
